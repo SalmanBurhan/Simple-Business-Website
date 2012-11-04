@@ -6,8 +6,8 @@ echo'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<meta name="Keywords" content="<!--Insert Meta Keywords Here. Seperate By Commas. -->" />
+<meta name="Keywords" content="<!--Insert keywords here -->" />
 
-<meta name="Description" content="<!--Insert Site Description Here. -->" />
+<meta name="Description" content="<!--Insert Description Here-->" />
 </head>';
 ?>
