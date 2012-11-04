@@ -6,7 +6,6 @@ include('inc/meta.php');
 
 //Echo Page Title Using MySQL Database
 echo '<title>'; echo $row['title']; echo '</title>';
-echo $row['title'];
 
 //Echo The Sidebar, Using CSS
 echo '<div class="container">
@@ -88,7 +87,7 @@ echo '<div class="container">
     
     <!--If Using Dreamweaver, Upon Every Save, Date And Time Will Be Updated -->
     
-    <!-- #BeginDate format:Am1a -->November 3, 2012 8:21 PM<!-- #EndDate --></p>
+    <!-- #BeginDate format:Am1a -->November 3, 2012 8:40 PM<!-- #EndDate --></p>
   </div>
   </div>
 
